@@ -2,7 +2,6 @@
 Calculates gross profit for commercial and home growers while also providing hot tips!
 
 Target audience:
-Already know how to grow marijuana
 Business owners
 Street dealers
 Home growers
