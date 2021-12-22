@@ -37,6 +37,7 @@ Processing tutorials & method for calculating gross profit.
 
 
 # TODO:
+<pre>
 Create login and register pages.
 Create Home view.
 Tabs: Diary, Geneticss, Grow tips, IPM, Forums, legality based on state, steps to get a license based on state.
@@ -45,7 +46,7 @@ Profile Page
 Models for all views.
 Firebase login authorization.
 Section for artist.
-
+</pre>
 
 
 
